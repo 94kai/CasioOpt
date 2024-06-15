@@ -6,3 +6,9 @@
 4. 修改start.sh的smali.jar参数，决定编译哪些smali到dex中
 5. 修改start.sh的zipFiles2Apk参数，决定压缩哪些文件到apk中
 6. 执行start.sh，生成build/out.apk
+
+
+# 打赏
+如果对你有用，可以给个打赏
+![](./png/dashang.png)
+
